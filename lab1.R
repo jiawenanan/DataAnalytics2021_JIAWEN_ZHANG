@@ -98,7 +98,5 @@ filtered_UNRegion <- Continent[UNRegion == "Middle Africa"]
 filtered_subregions <- Continent[LevelUsed >= 2]
 
 
-EPI
-
 
 
