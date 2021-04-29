@@ -1,4 +1,3 @@
-#last time lb5 11, March
 rm(list=ls())
 data(Titanic)
 str(Titanic)
